@@ -1,0 +1,1 @@
+Mały projekcik, zmienianie pozycji kamery strzałkami
